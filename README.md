@@ -1,4 +1,5 @@
-# git-basics
+# git-commands
+
 
 # cloning repo
   git clone repo-url-name(using https/ SSH) 
